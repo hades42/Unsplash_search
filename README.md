@@ -6,7 +6,7 @@ Highly recommend using **Node version >= 14.0**
 
 ```
 # Install necessary packages
-npm run install
+npm install
 
 # Start local host (default localhost:3000)
 npm run start
