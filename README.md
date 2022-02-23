@@ -14,3 +14,11 @@ npm run start
 # Build
 npm run build
 ```
+
+### Create .env
+
+Currently the repo has a .env file for easy testing. But you can change the value of access key for unsplash_API
+
+```
+REACT_APP_UNSPLASH_SECRET= <Your access key>
+```
