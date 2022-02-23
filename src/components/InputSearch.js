@@ -1,4 +1,4 @@
-import { Input, HStack, Center } from '@chakra-ui/react';
+import { Input, HStack } from '@chakra-ui/react';
 import { ColorModeSwitcher } from '../ColorModeSwitcher';
 
 const InputSearch = ({ value, handlerSearch }) => {
